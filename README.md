@@ -2,7 +2,7 @@
 
 A full-stack starter application using React + TypeScript, Node.js + Express, MongoDB, Redis, REST API, Docker, and Git.
 
-## Features
+## Features 
 - Demo login page (email: `admin@heritagevault.com`, password: `Heritage@123`)
 - Dashboard with artifact, exhibition, restoration and visitor totals
 - Artifact catalog: add, view, search and delete artifacts
